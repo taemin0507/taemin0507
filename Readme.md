@@ -1,8 +1,8 @@
 # 세명대학교
-http://www.semyung.ac.kr
+> http://www.semyung.ac.kr
 ---
 ## SmartIT학부
-https://www.instagram.com/smu_smartit/?hl=ko
+> https://www.instagram.com/smu_smartit/?hl=ko
 ---
 ### 2020219066 이태민
 ---
