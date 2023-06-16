@@ -1,4 +1,7 @@
-# 2020219066 학번의 RESUME 입니다....
+### 세명대학교
+> http://www.semyung.ac.kr
+## SmartIT학부
+# 2020219066 이태민
 
 # SmartIT02 Compedency
 - Spring Framework
@@ -25,16 +28,4 @@
 </body>
 </html>
 ```
-
-## table1
-| name    | Java | Linux |
-| ------- | ---- | ----- |
-| smart01 | 22   | 33    |
-| smart02 | 44   | 55    |
- 
- ## table2 => Excel (Alt+Shft+V)
-| Name    | Java | Linux |
-|---------|------|-------|
-| smart03 | 66   | 77    |
-| smart04 | 88   | 99    |
 
