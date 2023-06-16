@@ -4,7 +4,7 @@
 ## SmartIT학부 - 재학중
 > https://www.instagram.com/smu_smartit/?hl=ko
 ---
-### 학번:2020219066 학년: 2학년 이름:이태민
+### 학번: 2020219066 학년: 2학년 이름: 이태민
 ---
 ### 지금까지 배운것들
 <img src="https://img.shields.io/badge/1%ED%95%99%EB%85%84-C%EC%96%B8%EC%96%B4-blue"> <img src="https://img.shields.io/badge/1%ED%95%99%EB%85%84-Python-orange">
