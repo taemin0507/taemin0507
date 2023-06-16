@@ -1,15 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=h1, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-    <h1>2020219066 학번의 Home Page</h1>
-    <p>운전면허자격증 1종보통</p>
-    <img alt="" src="" />"
-</body>
-</html>
+<! DOCTYPE html>
+<.html>
+
+ {% 헤드 포함.html %}
+
+  <몸>
+
+    <div 클래스 = "래퍼">
+
+      <header 클래스 = "페이지 헤더">
+
+        <img src="images/avatar.jpg" alt="my photo" class="avatar">
+
+        <h1 클래스 = "헤더 이름"> { % site.resume_name %} < / h1>
+
+        <div 클래스 = "제목 표시 줄">
+          <h2 클래스 = "헤더 제목"> { % site.resume_title %} < / h2>
+          <ul 클래스 = "아이콘 링크">
+            <li 클래스 = "아이콘 링크"><a href="" 클래스 =""></a></li >
+          </UL>
+        </div>
+
+        <div 클래스 = "실행 요약">
+          <p>이것은 요약입니다. 전문적인 맥락에서 자신에 대해 짧고 간결하며 의미 있는 몇 가지 문장을 작성해야 합니다. 필요에 맞게 길이를 지정하되 K.I.S.S.</p>
+        </div>
+
+        <a href="mailto:{% site.resume_contact_email %}" class="contact-button"></a >
+
+      </머리글>
+
+      <section 클래스 = "기본 섹션">
+        <header 클래스 = "section-header ">
+          <h2>경험</h2>
+        </머리글>
+
+        <div 클래스 = "이력서 항목">
+
+        </div>
+      </절>
+
+    </div>
+
+  </몸>
+
+</.html>
